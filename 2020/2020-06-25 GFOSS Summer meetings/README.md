@@ -1,4 +1,4 @@
-# FOSS4G-IT 2020
+# GFOSS Summer meetings
 This presentation was given on June 25, 2020 as part of the [GFOSS Summer meetings](https://www.gfoss.it/index.php/novita/eventi/incontri-estivi-gfoss), organized by the [Italian Association for the Free Geographic Information (GFOSS.it)](https://www.gfoss.it/) in summer 2020.
 It can be cited as follows:
 
