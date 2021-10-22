@@ -1,12 +1,5 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+# Webinar "Dati territoriali, verso il monitoraggio INSPIRE 2021"
 
-\f0\fs24 \cf0 # Webinar "Dati territoriali, verso il monitoraggio INSPIRE 2021"\
-\
-This presentation was given at the [Webinar "Dati territoriali, verso il monitoraggio INSPIRE 2021. Come migliorare e misurare la qualit\'e0 di metadati, dati e servizi"](http://eventipa.formez.it/node/326281), held on October 22, 2021. It can be cited as follows:\
-\
-*  Minghini M. (2021) xxxx. Webinar "Dati territoriali, verso il monitoraggio INSPIRE 2021", October 22, 2021 [[pdf](xxx)]}
+This presentation was given at the [Webinar "Dati territoriali, verso il monitoraggio INSPIRE 2021. Come migliorare e misurare la qualità di metadati, dati e servizi"](http://eventipa.formez.it/node/326281), held on October 22, 2021. It can be cited as follows:
+
+*  Minghini M. (2021) xxxx. Webinar "Dati territoriali, verso il monitoraggio INSPIRE 2021", October 22, 2021 [[pdf](xxx)]
