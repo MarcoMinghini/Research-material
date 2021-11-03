@@ -1,5 +1,5 @@
 # INSPIRE Conference 2021
-These presentations were given at the [INSPIRE Conference 2021](https://inspire.ec.europa.eu/conference2021/), held online on October 25-29, 2021, during the sessions presented below. They can be cited as follows:
+These presentations were given at the [INSPIRE Conference 2021](https://inspire.ec.europa.eu/conference2021/), held online on October 25-29, 2021, as part of the sessions shown below. They can be cited as follows:
 
 * Minghini M. (2021) Present and future of metadata catalogues at pan-European level - the INSPIRE Geoportal. _INSPIRE Conference 2021_, October 25-29, 2021 [[pdf](02_MarcoMinghini_INSPIRE-Geoportal.pdf)]
 
