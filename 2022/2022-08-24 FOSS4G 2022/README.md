@@ -10,3 +10,5 @@ These presentations were given at [FOSS4G 2022](https://2022.foss4g.org), held i
 * Martínez O., Pelegrina J.M., Epure E., Hernandez L., Soriano J.E., Vinci F., Escriu J., Minghini M., Di Leo M. and Kotsev A. (2022) Re3gistry: Your interoperable open source tool for managing and sharing reference codes. _FOSS4G 2022_, August 22-28, 2022 [[pdf](FOSS4G-2022_Re3gistry.pdf)]
 
 * Ticheler J., Garcia J., Blasby D., Artasensi D., Escriu J., Minghini M. and Kotsev A. (2022) Revamped INSPIRE Geoportal - Cooking the next generation of spatial data catalogues. _FOSS4G 2022_, August 22-28, 2022 [[pdf](FOSS4G-2022_INSPIRE_Geoportal.pdf)]
+
+![image](https://user-images.githubusercontent.com/14758434/226952179-bca4b29f-89a9-43c8-9bbb-6045fd021640.png)
