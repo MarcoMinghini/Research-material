@@ -3,4 +3,6 @@ This presentation was given at the [Open Data Open Knowledge Workshop](https://e
 
 * Minghini M. (2023) European high-value datasets from the public sector. _Open Data Open Knowledge Workshop_, June 15-16, 2023 [[pdf](Session5_7_Marco%20Minghini.pdf)]
 
+![image](https://github.com/MarcoMinghini/Research-material/assets/14758434/4b9c6a2c-1261-4780-9c50-fcd2cda1206a)
+
 ![image](https://github.com/MarcoMinghini/Research-material/assets/14758434/91a4abbe-3e8b-4f58-a135-ca8ce33e9905)
