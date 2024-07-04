@@ -3,3 +3,4 @@ These presentations were given at [FOSS4G Europe 2024](https://2024.europe.foss4
 
 * Minghini M., Thabit Gonzalez S. and Gabrielli L. (2024) Pan-European open building footprints: analysis and comparison in selected countries. _FOSS4G Europe 2024_, July 1-7, 2024 [[pdf](FOSS4GE_Buildings.pdf)]
 
+* Minghini M., Gabrielli L. and Kotsev A. (2024) Semantic annotation and classification of EU tendering data on open geospatial software, standards and data using Large Language Models. _FOSS4G Europe 2024_, July 1-7, 2024 [[pdf](TED-LLM_FOSS4GE.pdf)]
