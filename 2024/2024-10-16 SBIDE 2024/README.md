@@ -1,5 +1,5 @@
 # SBIDE 2024
-This presentation was given at the [IV Simposió Brasileiro de Infraestrutura de Dados Espaciais (SBIDE 2024)](https://inde.gov.br/simposio-16-anos/), held online and in Rio de Janeiro, Brazil on October 15-18, 2024. It can be cited as follows:
+This presentation was given at the [IV Simpósio Brasileiro de Infraestrutura de Dados Espaciais (SBIDE 2024)](https://inde.gov.br/simposio-16-anos/), held online and in Rio de Janeiro, Brazil on October 15-18, 2024. It can be cited as follows:
 
 * Minghini M. (2024) Modernisation of INSPIRE: from SDIs to data spaces. _IV Simposió Brasileiro de Infraestrutura de Dados Espaciais_, October 15-18, 2024 [[pdf](SBIDE-2024_Minghini.pdf)]
 
